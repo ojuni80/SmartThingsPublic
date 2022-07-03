@@ -105,7 +105,7 @@ metadata {
                     inClusters:     "0000 0004 0005 EF00",
                     outClusters:    "0019 000A",
                     application:    "42",
-                    manufacturer:   "_TZE3000_hhiodade", model: "TS0011", deviceJoinName: "Moes 1 gang switch"
+                    manufacturer:   "_TZE3000_hhiodade", model: "TS0601", deviceJoinName: "Moes 1 gang switch"
 	}
 
 	preferences {
